@@ -1,5 +1,5 @@
 #####################
-#DM Project Faraz Moghimi
+#Faraz Moghimi, # Mahdi Behroozikhah
 ######################
 
 # Importing libraries
